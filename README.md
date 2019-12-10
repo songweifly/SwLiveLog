@@ -1,4 +1,11 @@
-https://design-patterns.readthedocs.io/zh_CN/latest/ 设计模式
 
-### Java基础
-* [Java 基础知识回顾](https://github.com/songweifly/SwLiveBase/blob/master/Java平台/Java基础/Java基础知识.md)
+
+
+
+###  系统配置
+* [yum 配置]
+(https://github.com/songweifly/SwLiveLog/tree/master/yum)
+
+####  设计模式
+* [图解 设计模式]
+(https://design-patterns.readthedocs.io/zh_CN/latest/)
