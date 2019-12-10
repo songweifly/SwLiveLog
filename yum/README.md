@@ -155,6 +155,4 @@ yum clean packages 清除缓存目录下的软件包
 yum clean headers 清除缓存目录下的 headers
 yum clean oldheaders 清除缓存目录下旧的 headers
 yum clean, yum clean all (= yum clean packages; yum clean oldheaders) 清除缓存目录下的软件包及旧的header
-————————————————
-版权声明：本文为CSDN博主「树上骑个猴」的原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接及本声明。
 原文链接：https://blog.csdn.net/shuaigexiaobo/article/details/79875730
