@@ -33,7 +33,7 @@ git config --global user.email "songweifly@126.com"
 
 Ò»¡¢Create a new repository
 
-git clone http://132.147.253.210/songweifly/SwLiveBase.git
+git clone http://xxx.xxx.xxx.xxx/songweifly/SwLiveBase.git
 cd SwLiveBase
 touch README.md
 git add README.md
@@ -44,7 +44,7 @@ git push -u origin master
 
 cd existing_folder
 git init
-git remote add origin http://132.147.253.210/songweifly/SwLiveBase.git
+git remote add origin http://xxx.xxx.xxx.xxx/songweifly/SwLiveBase.git
 git add .
 git commit -m "Initial commit"
 git push -u origin master
@@ -52,7 +52,7 @@ git push -u origin master
 Èý¡¢Existing Git repository
 
 cd existing_repo
-git remote add origin http://132.147.253.210/songweifly/SwLiveBase.git
+git remote add origin http://xxx.xxx.253.xxx/songweifly/SwLiveBase.git
 git push -u origin --all
 git push -u origin --tags
 
